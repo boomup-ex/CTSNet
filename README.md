@@ -5,10 +5,17 @@ Accurate segmentation and quantification of carpal tunnel tissues, particularly 
 
 Meanwhile，we constructed a wrist MRI database to test the effectiveness of the proposed wrist canal tissue segmentation model, with data sourced from Shanxi Provincial People's Hospital
 ![image](https://github.com/user-attachments/assets/0c385c5d-e565-4a92-8cd7-171d34d830a9)
+
 Framework of the proposed model. 
 
+
+
 ![image](https://github.com/user-attachments/assets/e17cf851-ca2d-48fb-a25c-40a3fcfa9451)
+
 Segmentation visualization results of the MRI carpal tunnel, The first column shows the original MRI, the second through fifth columns show the segmentation results of other state-of-the-art methods, the sixth shows the segmentation results of proposed method in this paper, the last column shows the manual segmentation by the clinician.
 
+
+
 ![image](https://github.com/user-attachments/assets/87ce8fd0-81ee-4df5-b662-a77ccfca0993)
- Test results on the dataset used for evaluation. The proposed method continues to demonstrate robust segmentation outcomes for both modalities across additional datasets, substantiating its exceptional generalisation capabilities.
+
+Test results on the dataset used for evaluation. The proposed method continues to demonstrate robust segmentation outcomes for both modalities across additional datasets, substantiating its exceptional generalisation capabilities.
