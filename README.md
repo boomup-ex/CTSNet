@@ -11,7 +11,12 @@ For the purpose of protecting patient privacy, the data provider does not allow 
 Our research has been summarized and submitted to The Visual Computer as an article titled:"Automated Segmentation and Morphological Measurement of Carpal Tunnel Tissues using Edge-Guided Dual-Stream Network"
 
 ## 1、Getting Start
+git clone https://github.com/boomup-ex/CTSNet.git
 
+## 2、Requirements
+
+
+## 3、Results
 
 The output results of the model are shown below：
 
